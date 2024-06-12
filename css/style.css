@@ -341,9 +341,9 @@ h1, h2, h3, h4, h5,
   z-index: 1999;
   position: absolute;
   top: 0;
-  top: 15px;
+  top: 0px;
   width: 100%;
-  background: transparent; }
+  background: white; }
   .site-navbar .site-logo {
     position: relative;
     left: 0;
